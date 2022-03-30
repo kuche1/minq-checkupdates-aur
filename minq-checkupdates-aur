@@ -1,4 +1,4 @@
 #! /usr/bin/env bash
 
-paru -Sya &> /dev/null
+#paru -Sya &> /dev/null
 paru -Qua
